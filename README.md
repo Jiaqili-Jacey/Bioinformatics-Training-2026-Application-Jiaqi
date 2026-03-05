@@ -8,4 +8,4 @@ Hope I can get a chance to enter the training program😊.
 
 ## Answers
 - **Question 11 (Rows):23735 (including header)
-- **Question 12 (Columns):23735 (including header)
+- **Question 12 (Columns):14 (including header)
